@@ -1,4 +1,4 @@
-# Educational-Website
+# Nanua Global
 A responsive front end website
 
 created a folder for blogs
